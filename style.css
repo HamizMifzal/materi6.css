@@ -1,0 +1,10 @@
+body{
+    background-color: grey;
+    background-image: url(IMG_20240903_081312.jpg);
+    background-repeat: repeat-x;
+    background-position: top right;
+}
+
+body{
+    background: white url(IMG_20240903_081312.jpg);
+}
